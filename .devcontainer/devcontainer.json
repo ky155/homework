@@ -1,1 +1,1 @@
-{"mcr.microsoft.com/devcontainers/rust:latest"}
+{"image":"mcr.microsoft.com/devcontainers/rust:latest"}
